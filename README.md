@@ -1,8 +1,72 @@
-# React + Vite
+# 3D Personal Portfolio ⭐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **3D personal portfolio website** built using **React, Vite, Tailwind CSS, and Three.js**. This project showcases skills, projects, and personal information through immersive 3D visuals, smooth animations, and a responsive layout for an engaging user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+👉 Add your live deployed link here  
+Example: https://yourportfolio.vercel.app
+
+---
+
+## 🚀 Features
+
+- 🌟 Interactive 3D elements and animations  
+- 🎨 Modern UI with clean design  
+- 📱 Fully responsive across all devices  
+- 💼 Dedicated sections for About, Skills, Projects, and Contact  
+- ⚡ Fast performance powered by Vite  
+- 🎥 Smooth animations using Framer Motion / GSAP (optional)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Vite  
+- **Styling:** Tailwind CSS  
+- **3D Graphics:** Three.js, React Three Fiber  
+- **Animations:** Framer Motion / GSAP  
+- **Contact Integration:** EmailJS (optional)
+
+---
+
+## 📦 Project Structure
+
+3D-Personal-Portfolio/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── pages/
+│ ├── styles/
+│ ├── utils/
+│ └── App.jsx
+├── .gitignore
+├── README.md
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+
+
+---
+
+## 📥 Getting Started
+
+### Prerequisites
+- Node.js (v16+)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/rohit99058/3D-Personal-Portfolio.git
+cd 3D-Personal-Portfolio
+npm install
+npm run dev
+
+
+Open your browser at:
+
+http://localhost:5173
+
