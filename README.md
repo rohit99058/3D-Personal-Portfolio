@@ -5,8 +5,7 @@ A modern and interactive **3D personal portfolio website** built using **React, 
 ---
 
 ## 🔗 Live Demo
-👉 Add your live deployed link here  
-Example: https://yourportfolio.vercel.app
+https://3-d-personal-portfolio-orcin.vercel.app/
 
 ---
 
